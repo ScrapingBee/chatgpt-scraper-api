@@ -49,6 +49,7 @@ This significantly reduces maintenance while increasing flexibility.
 ---
 
 ## How the ChatGPT Scraper Works
+<img width="1342" height="492" alt="image" src="https://github.com/user-attachments/assets/335e388f-bf73-4617-8b66-612e73fc2609" />
 
 The request flow is straightforward:
 
