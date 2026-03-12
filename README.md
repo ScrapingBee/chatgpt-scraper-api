@@ -27,7 +27,7 @@ Traditional web scraping requires:
 
 - CSS selector maintenance  
 - Proxy rotation  
-- JavaScript rendering  
+- [JavaScript rendering](https://help.scrapingbee.com/en/article/understanding-javascript-rendering-27pbz1/)  
 - Continuous parsing updates  
 
 Layouts change. Anti-bot systems evolve. Scripts break.
