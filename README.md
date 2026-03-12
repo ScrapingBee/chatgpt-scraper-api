@@ -281,7 +281,7 @@ This hybrid approach allows scraper ChatGPT workflows to adapt to dynamic websit
 
 ## Summary
 
-This repository provides a practical implementation of a ChatGPT scraper built on top of a flexible ChatGPT scraping API.
+This repository provides a practical implementation of a ChatGPT scraper built on top of a flexible [ChatGPT scraping API](https://www.scrapingbee.com/features/chatgpt/).
 
 By combining natural language prompts, optional web search, geotargeting, and HTML context injection, you can build intelligent scraping systems that are more adaptable than traditional approaches.
 
