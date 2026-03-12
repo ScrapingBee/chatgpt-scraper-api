@@ -6,7 +6,7 @@
   </a>
 </p>
 
-A production-ready ChatGPT scraper for intelligent web search, contextual extraction, and AI-powered website scraping.
+A production-ready [ChatGPT scraper](https://www.scrapingbee.com/features/chatgpt/) for intelligent web search, contextual extraction, and AI-powered website scraping.
 
 This repository demonstrates how to build scalable ChatGPT scraping workflows using a single API that combines:
 
@@ -34,7 +34,7 @@ Layouts change. Anti-bot systems evolve. Scripts break.
 
 ChatGPT scraping shifts the model.
 
-Instead of defining *how* to extract data, you define *what* you want extracted.
+Instead of defining how to extract data, you define *what* you want extracted.
 
 The API handles:
 
