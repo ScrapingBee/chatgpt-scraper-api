@@ -1,4 +1,4 @@
-# chatgpt-scraper-api
+### chatgpt-scraper-api
 
 <p align="center">
   <a href="https://www.scrapingbee.com/scrapers/google-reviews-results-api/">
